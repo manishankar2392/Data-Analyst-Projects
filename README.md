@@ -86,12 +86,9 @@ It enables quick analysis of sales performance, best-selling products, top-perfo
 - Bottom 3 Salespersons
 
 ---
+## ℹ️ About
 
-
----
-
-
-
+Contains project information and Excel version compatibility.
 
 ---
 
