@@ -87,53 +87,11 @@ It enables quick analysis of sales performance, best-selling products, top-perfo
 
 ---
 
-## ℹ️ About
-
-Contains project information and Excel version compatibility.
 
 ---
 
-# 📷 Dashboard Preview
 
-## Main Dashboard
 
-![Dashboard](images/dashboard.png)
-
-## Products Dashboard
-
-![Products](images/products.png)
-
-## Salesman Dashboard
-
-![Salesman](images/salesman.png)
-
-## About
-
-![About](images/about.png)
-
-> **Note:** Create an `images` folder in your repository and upload the screenshots with the following names:
->
-> - dashboard.png
-> - products.png
-> - salesman.png
-> - about.png
-
----
-
-# 📂 Project Structure
-
-```
-Sales-Analytics-Dashboard/
-│
-├── Dashboard.xlsx
-├── README.md
-├── images/
-│   ├── dashboard.png
-│   ├── products.png
-│   ├── salesman.png
-│   └── about.png
-└── LICENSE
-```
 
 ---
 
@@ -186,18 +144,6 @@ This project demonstrates practical knowledge of:
 - Excel Dashboard Projects
 - Resume Projects
 - GitHub Portfolio
-
----
-
-# 👤 Author
-
-**Mani Shankar K**
-
-📧 Email: *your-email@example.com*
-
-🔗 LinkedIn: *Add your LinkedIn profile*
-
-💻 GitHub: *Add your GitHub profile*
 
 ---
 
