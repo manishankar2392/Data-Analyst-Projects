@@ -151,9 +151,9 @@ This project demonstrates practical knowledge of:
 
 📧 Email: *komaralamanishankar2392@gmail.com*
 
-🔗 LinkedIn: *linkedin.com/in/k-venkata-mani-shankar*
+🔗 LinkedIn: *https://www.linkedin.com/in/k-venkata-mani-shankar*
 
-💻 GitHub: *github.com/manishankar2392*
+💻 GitHub: *https://github.com/manishankar2392*
 
 ---
 
